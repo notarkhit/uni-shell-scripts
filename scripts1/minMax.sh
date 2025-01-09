@@ -22,6 +22,8 @@ do
 		min=$num
 	fi
 
+	i=`expr $i+1`
+
 done
 
 echo "minumum number is : $min"
