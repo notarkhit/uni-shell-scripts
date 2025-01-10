@@ -22,6 +22,7 @@ do
 		min=$num
 	fi
 
+	i=`expr $i + 1`
 	# ((i+=1))
 
 done
