@@ -22,7 +22,7 @@ do
 		min=$num
 	fi
 
-	((i+=1))
+	# ((i+=1))
 
 done
 
